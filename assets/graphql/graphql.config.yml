@@ -1,0 +1,6 @@
+schema: schema.graphql
+extensions:
+  endpoints:
+    DEV GraphQL Endpoint:
+      url: https://graphql.anilist.co/
+      introspect: false
